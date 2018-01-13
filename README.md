@@ -31,3 +31,6 @@ Pc 2 | Pc3
 
 **Test only!**
 : this is supposed to be a description of a word or whatsoever
+
+Word
+: description # 2
