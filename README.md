@@ -1,4 +1,5 @@
 
+
 # Readme file
 
 > Written with [StackEdit](https://stackedit.io/).
@@ -34,3 +35,12 @@ Pc 2 | Pc3
 
 Word
 : description # 2
+
+## Just something
+* hehe
+1. wow
+2. cool
+
+# 아이유
+[아이유](https://0.soompi.io/wp-content/uploads/2016/07/17034328/iu.jpg)
+![아이유](https://0.soompi.io/wp-content/uploads/2016/07/17034328/iu.jpg)
